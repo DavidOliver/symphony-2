@@ -10,6 +10,6 @@ Thanks!
 
 - The Symphony Team
 
-### Legal
+## Legal
 
 This submitting your code to the community, you agree to release all copyrights on the code you submit.
