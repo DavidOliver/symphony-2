@@ -12,4 +12,4 @@ Thanks!
 
 ## Legal
 
-This submitting your code to the community, you agree to release all copyrights on the code you submit.
+By submitting your code to the community, you agree to release all copyrights on the code you submit.
